@@ -8,6 +8,6 @@ Download the Houston dataset from the google drive link below
 https://drive.google.com/drive/folders/1esDZ29DKLB6rvmbedglMQ-VB9xhXum1K?usp=sharing
 
 ## Notebook
-You can also refer to the full end-to-end implementation in the google colab notebook:
+Please refer to the full end-to-end implementation in the google colab notebook:
 Houston(2).ipynb
 
